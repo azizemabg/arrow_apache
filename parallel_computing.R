@@ -117,7 +117,7 @@ diamonds.data.par <- rename(diamonds.data.par,
 ################################################################################
 ################################################################################
 
-## An example from AI
+## An example
 
 # RENAMING THE COLUMNS HEADERS ####
 # Create a sample data.table
